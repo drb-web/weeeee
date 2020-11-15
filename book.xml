@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="css/style.css" type="text/css"?>
+<books>
+<heading>愛書清單</heading>
+<book>
+<title>別來無恙</title>
+<author>晨雨</author>
+<publisher>城邦原創</publisher>
+<price>$240</price>
+</book>
+<book>
+<title>想把餘生的溫柔都給你</title>
+<author>不朽</author>
+<publisher>悅知文化</publisher>
+<price>$320</price>
+</book>
+<book>
+<title>藍空</title>
+<author>晨雨</author>
+<publisher>城邦原創</publisher>
+<price>$240</price>
+</book>
+</books>
